@@ -1,0 +1,11 @@
+# Python cache and notebook cruft
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Virtual environments & local tooling
+.env
+.venv/
