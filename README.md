@@ -9,3 +9,4 @@ This repository consolidates the material for the CAS Applied Data Science modul
 - `module_4` – Ethics, security, Git/GitHub, and legal slide decks.
 - `module_5` – Placeholder for consolidation workshops and cross-module recaps.
 - `module_6` – Deep learning lecture decks and supporting notebooks/booklets.
+- `final_project` – Final CAS Project.
